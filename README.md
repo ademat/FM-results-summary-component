@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/ademat/FM-results-summary-component)
+- Live Site URL: [site](https://fm-results-summary-component-psi.vercel.app/)
 
 ### Built with
 
